@@ -10,11 +10,11 @@ Tercih dönemindeyseniz, İYTE bölümlerinin notları ve notların nereye gitti
 
 ##  Mühendislik Fakültesi
 
-> :info: **Bilgiler YÖK Atlas'ın bu sene ve geçen seneki verileridir.** [Ayrıntılı tablo](https://docs.google.com/spreadsheets/d/1kT3D6YSBBLEVwhM9tpDEtn6yGS_sDiLZpVbBHoQSe-E/edit?usp=sharing)
+> :information_source: **Bilgiler YÖK Atlas'ın bu sene ve geçen seneki verileridir.** [Ayrıntılı tablo](https://docs.google.com/spreadsheets/d/1kT3D6YSBBLEVwhM9tpDEtn6yGS_sDiLZpVbBHoQSe-E/edit?usp=sharing)
 
 | Program | Son Sene (2019) Sıralaması | Kuruluşundan Beri Sıralamasındaki Değişim |
 | :---         |     :---:      |          ---: |
-| [Bilgisayar Mühendisliği](https://ceng.iyte.edu.tr/tr/) | 22,043 | +%39.96 📈 |
+| [Bilgisayar Mühendisliği](https://ceng.iyte.edu.tr/tr/) | 22,043 | +%39.96 :chart_with_upwards_trend: |
 | [Biyomühendislik](https://bioeng.iyte.edu.tr/) | 91,562 | +%4.17 📈 |
 | [Çevre Mühendisliği](https://enve.iyte.edu.tr/) | 125,271| Yeni 📆|
 | [Elektronik ve Haberleşme Mühendisliği](https://eee.iyte.edu.tr/) | 38,791 | -%35.78 📉|
