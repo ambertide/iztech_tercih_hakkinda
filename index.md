@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+# İYTE ÖSYS Notları Üzerine
 
-You can use the [editor on GitHub](https://github.com/ambertide/iztech_tercih_hakkinda/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+> :warning: **Bu sitenin İYTE'yle herhangi resmi bir bağı yoktur.**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+İYTE Urla'da bulunan bir devlet üniversitesidir, eğitimi İngilizce, bölümleri ise dört yıllıktır. 17 bölümü vardır, iki bölümü ayrıca KKTC uyruklu öğrenciler için ekstra alım yapmaktadır, bu bölümlerin dört tanesi bu sene açılmıştır.
 
-### Markdown
+## Bölüm Sıralamaları.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Tercih dönemindeyseniz, İYTE bölümlerinin notları ve notların nereye gittiğini merak ediyor olabilirsiniz. Aşağıdaki listelerde, her bölümün geçen seneki sıralaması, aynı zamanda kuruluşundan beri sıralamasındaki değişim verilmiştir. Ayrıca bölüm isimlerine tıklarsanız bölümün resmi sitesine gideceksiniz. Ayrıca: [İYTE Resmi Sitesi](https://iyte.edu.tr/)
 
-```markdown
-Syntax highlighted code block
+###  Mühendislik Fakültesi
 
-# Header 1
-## Header 2
-### Header 3
+> :information_source: **Bilgiler YÖK Atlas'ın bu sene ve geçen seneki verileridir.** [Ayrıntılı tablo](https://docs.google.com/spreadsheets/d/1kT3D6YSBBLEVwhM9tpDEtn6yGS_sDiLZpVbBHoQSe-E/edit?usp=sharing)
 
-- Bulleted
-- List
+| Program | Son Sene (2019) Sıralaması | Kuruluşundan Beri Sıralamasındaki Değişim |
+| :---         |     :---:      |          ---: |
+| [Bilgisayar Mühendisliği](https://ceng.iyte.edu.tr/tr/) | 22,043 | +%39.96 :chart_with_upwards_trend: |
+| [Biyomühendislik](https://bioeng.iyte.edu.tr/) | 91,562 | +%4.17 📈 |
+| [Çevre Mühendisliği](https://enve.iyte.edu.tr/) | 125,271| Yeni 📆|
+| [Elektronik ve Haberleşme Mühendisliği](https://eee.iyte.edu.tr/) | 38,791 | -%35.78 📉|
+| [Enerji Sistemleri Mühendisliği](https://ese.iyte.edu.tr/en/home-page/) | 102,011 | Yeni 📆|
+| [Gıda Mühendisliği](https://food.iyte.edu.tr/) | 157,595 | -%81.53 📉|
+| [İnşaat Mühendisliği](https://civil.iyte.edu.tr/) | 119,283 | -%211.19 📉|
+| [Kimya Mühendisliği](https://che.iyte.edu.tr/) | 73,551 | -%6.19 📉|
+| [Makina Mühendisliği](https://me.iyte.edu.tr/) | 39,653 | -%22.15 📉|
+| [Malzeme Bilimi ve Mühendisliği](https://mse.iyte.edu.tr/) | 140,125 | +%1.45 📈|
 
-1. Numbered
-2. List
+### Fen Fakültesi
 
-**Bold** and _Italic_ and `Code` text
+| Program | Son Sene (2019) Sıralaması | Kuruluşundan Beri Sıralamasındaki Değişim |
+| :---         |     :---:      |          ---: |
+| [Fizik](https://physics.iyte.edu.tr/) | 188,493 | +%9.18 📈|
+| [Fotonik](https://physics.iyte.edu.tr/) | 261,732 | Yeni 📆|
+| [Kimya](https://chemistry.iyte.edu.tr/) | 242,738 | -%40.90 📉|
+| [Matematik](https://math.iyte.edu.tr/) | 140,125 | +%1.45 📈|
+| [Moleküler Biyoloji ve Genetik](https://mbg.iyte.edu.tr/) | 51,751 | -%48.30 📉|
+| Matematik (KKTC uyruklu) | 265,677 | -%44.00 📉|
+| Kimya (KKTC uyruklu) | 316,962 | -%84.38 📉|
 
-[Link](url) and ![Image](src)
-```
+### Mimarlık Fakültesi
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+| Program | Son Sene (2019) Sıralaması | Kuruluşundan Beri Sıralamasındaki Değişim |
+| :---         |     :---:      |          ---: |
+| [Endüstriyel Tasarım](https://id.iyte.edu.tr/) | 141,415 |  Yeni 📆|
+| [Mimarlık](https://arch.iyte.edu.tr/) | 55,957 | -%131.81 📉|
+| [Şehir ve Bölge Planlama](https://city.iyte.edu.tr/) | 258,391 | -%221.96 📉|
 
-### Jekyll Themes
+## Ulaşım
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ambertide/iztech_tercih_hakkinda/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+> :warning: **İYTE Otobüs Hatlarının bir kısmı yaz günlerinde hizmet vermemektedir.**
 
-### Support or Contact
+> :information_source: [Ulaşımla ilgili resmi İYTE sayfası](https://iyte.edu.tr/yenikayit/iyteye-ulasim/)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+İYTE'de ulaşım genellikle dolmuşlarla sağlanmaktaydı, dolmuşlar dışında iki otobüs vardı, bunlar [982 Numaralı](https://www.eshot.gov.tr/tr/UlasimSaatleri/982/288?AspxAutoDetectCookieSupport=1) ESHOT hattı ve Urla Belediye Otobüsü'ydü. Ancak son iki sene içinde iki yeni otobüs daha eklendi, bunlar [883 Numaralı F. Altay Ekspress Hattı](https://www.eshot.gov.tr/tr/UlasimSaatleri/883/288) ve [882 Numaralı İYTE-Urla Hattı](https://www.eshot.gov.tr/tr/UlasimSaatleri/883/288)dır.
+
+Bu otobüs hatlarının eklenmesi ile birlikte, dolmuşlar kampüse girmeyi bırakmışlardır (bildiğim kadarıyla). Ayrıca kampüs içersinde hizmet gösteren bir ring servisi de bulunmaktadır. Bunun dışında servisler de bulunmaktadır.
+
+## Barınma
+
+> :information_source: [Barınma ve Kampüs Hayatıyla ilgili resmi İYTE Sayfası](https://iyte.edu.tr/kampus-hayati/)
+
+> :warning: **KYK yurtları kontejana tabiidir**
+
+İYTE'de barınma olarak, kampüs içinde bir devlet, bir de özel yurt bulunmaktadır (ÜniYurt) bunun dışında, İYTE'nin yakınındaki Gülbahçe köyünde ve İYTE'ye görece yakın Urla merkez arasında kiralık evler bulunabilir. Ayrıca Urla'da çeşitli  özel yurtlar bulunmaktadır, bu yurtların bazıları kendi servislerini kaldırmaktadır.
