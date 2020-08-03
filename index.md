@@ -1,6 +1,6 @@
 # İYTE ÖSYS Notları Üzerine
 
-> :warning: **Bu sitenin İYTE'yle herhangi resmi bir bağı yoktur.**
+> ⚠️ **Bu sitenin İYTE'yle herhangi resmi bir bağı yoktur.**
 
 İYTE Urla'da bulunan bir devlet üniversitesidir, eğitimi İngilizce, bölümleri ise dört yıllıktır. 17 bölümü vardır, iki bölümü ayrıca KKTC uyruklu öğrenciler için ekstra alım yapmaktadır, bu bölümlerin dört tanesi bu sene açılmıştır.
 
@@ -10,11 +10,11 @@ Tercih dönemindeyseniz, İYTE bölümlerinin notları ve notların nereye gitti
 
 ###  Mühendislik Fakültesi
 
-> :information_source: **Bilgiler YÖK Atlas'ın bu sene ve geçen seneki verileridir.** [Ayrıntılı tablo](https://docs.google.com/spreadsheets/d/1kT3D6YSBBLEVwhM9tpDEtn6yGS_sDiLZpVbBHoQSe-E/edit?usp=sharing)
+> ℹ️ **Bilgiler YÖK Atlas'ın bu sene ve geçen seneki verileridir.** [Ayrıntılı tablo](https://docs.google.com/spreadsheets/d/1kT3D6YSBBLEVwhM9tpDEtn6yGS_sDiLZpVbBHoQSe-E/edit?usp=sharing)
 
 | Program | Son Sene (2019) Sıralaması | Kuruluşundan Beri Sıralamasındaki Değişim |
 | :---         |     :---:      |          ---: |
-| [Bilgisayar Mühendisliği](https://ceng.iyte.edu.tr/tr/) | 22,043 | +%39.96 :chart_with_upwards_trend: |
+| [Bilgisayar Mühendisliği](https://ceng.iyte.edu.tr/tr/) | 22,043 | +%39.96 📈 |
 | [Biyomühendislik](https://bioeng.iyte.edu.tr/) | 91,562 | +%4.17 📈 |
 | [Çevre Mühendisliği](https://enve.iyte.edu.tr/) | 125,271| Yeni 📆|
 | [Elektronik ve Haberleşme Mühendisliği](https://eee.iyte.edu.tr/) | 38,791 | -%35.78 📉|
@@ -47,9 +47,9 @@ Tercih dönemindeyseniz, İYTE bölümlerinin notları ve notların nereye gitti
 
 ## Ulaşım
 
-> :warning: **İYTE Otobüs Hatlarının bir kısmı yaz günlerinde hizmet vermemektedir.**
+> ⚠️ **İYTE Otobüs Hatlarının bir kısmı yaz günlerinde hizmet vermemektedir.**
 
-> :information_source: [Ulaşımla ilgili resmi İYTE sayfası](https://iyte.edu.tr/yenikayit/iyteye-ulasim/)
+> ℹ️ [Ulaşımla ilgili resmi İYTE sayfası](https://iyte.edu.tr/yenikayit/iyteye-ulasim/)
 
 İYTE'de ulaşım genellikle dolmuşlarla sağlanmaktaydı, dolmuşlar dışında iki otobüs vardı, bunlar [982 Numaralı](https://www.eshot.gov.tr/tr/UlasimSaatleri/982/288?AspxAutoDetectCookieSupport=1) ESHOT hattı ve Urla Belediye Otobüsü'ydü. Ancak son iki sene içinde iki yeni otobüs daha eklendi, bunlar [883 Numaralı F. Altay Ekspress Hattı](https://www.eshot.gov.tr/tr/UlasimSaatleri/883/288) ve [882 Numaralı İYTE-Urla Hattı](https://www.eshot.gov.tr/tr/UlasimSaatleri/883/288)dır.
 
@@ -57,8 +57,8 @@ Bu otobüs hatlarının eklenmesi ile birlikte, dolmuşlar kampüse girmeyi bır
 
 ## Barınma
 
-> :information_source: [Barınma ve Kampüs Hayatıyla ilgili resmi İYTE Sayfası](https://iyte.edu.tr/kampus-hayati/)
+> ℹ️ [Barınma ve Kampüs Hayatıyla ilgili resmi İYTE Sayfası](https://iyte.edu.tr/kampus-hayati/)
 
-> :warning: **KYK yurtları kontejana tabiidir**
+> ⚠️ **KYK yurtları kontejana tabii olabilir**
 
 İYTE'de barınma olarak, kampüs içinde bir devlet, bir de özel yurt bulunmaktadır (ÜniYurt) bunun dışında, İYTE'nin yakınındaki Gülbahçe köyünde ve İYTE'ye görece yakın Urla merkez arasında kiralık evler bulunabilir. Ayrıca Urla'da çeşitli  özel yurtlar bulunmaktadır, bu yurtların bazıları kendi servislerini kaldırmaktadır.
