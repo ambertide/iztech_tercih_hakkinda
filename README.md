@@ -6,9 +6,9 @@
 
 ## Bölüm Sıralamaları.
 
-Tercih dönemindeyseniz, İYTE bölümlerinin notları ve notların nereye gittiğini merak ediyor olabilirsiniz. Aşağıdaki listelerde, her bölümün geçen seneki sıralaması, aynı zamanda kuruluşundan beri sıralamasındaki değişim verilmiştir. 
+Tercih dönemindeyseniz, İYTE bölümlerinin notları ve notların nereye gittiğini merak ediyor olabilirsiniz. Aşağıdaki listelerde, her bölümün geçen seneki sıralaması, aynı zamanda kuruluşundan beri sıralamasındaki değişim verilmiştir. Ayrıca bölüm isimlerine tıklarsanız bölümün resmi sitesine gideceksiniz. Ayrıca: [İYTE Resmi Sitesi](https://iyte.edu.tr/)
 
-##  Mühendislik Fakültesi
+###  Mühendislik Fakültesi
 
 > :information_source: **Bilgiler YÖK Atlas'ın bu sene ve geçen seneki verileridir.** [Ayrıntılı tablo](https://docs.google.com/spreadsheets/d/1kT3D6YSBBLEVwhM9tpDEtn6yGS_sDiLZpVbBHoQSe-E/edit?usp=sharing)
 
@@ -25,7 +25,7 @@ Tercih dönemindeyseniz, İYTE bölümlerinin notları ve notların nereye gitti
 | [Makina Mühendisliği](https://me.iyte.edu.tr/) | 39,653 | -%22.15 📉|
 | [Malzeme Bilimi ve Mühendisliği](https://mse.iyte.edu.tr/) | 140,125 | +%1.45 📈|
 
-## Fen Fakültesi
+### Fen Fakültesi
 
 | Program | Son Sene (2019) Sıralaması | Kuruluşundan Beri Sıralamasındaki Değişim |
 | :---         |     :---:      |          ---: |
@@ -37,11 +37,28 @@ Tercih dönemindeyseniz, İYTE bölümlerinin notları ve notların nereye gitti
 | Matematik (KKTC uyruklu) | 265,677 | -%44.00 📉|
 | Kimya (KKTC uyruklu) | 316,962 | -%84.38 📉|
 
-## Mimarlık Fakültesi
-
+### Mimarlık Fakültesi
 
 | Program | Son Sene (2019) Sıralaması | Kuruluşundan Beri Sıralamasındaki Değişim |
 | :---         |     :---:      |          ---: |
-| Endüstriyel Tasarım | 141,415 |  Yeni 📆|
-| Mimarlık | 55,957 | -%131.81 📉|
-| Şehir ve Bölge Planlama | 258,391 | -%221.96 📉|
+| [Endüstriyel Tasarım](https://id.iyte.edu.tr/) | 141,415 |  Yeni 📆|
+| [Mimarlık](https://arch.iyte.edu.tr/) | 55,957 | -%131.81 📉|
+| [Şehir ve Bölge Planlama](https://city.iyte.edu.tr/) | 258,391 | -%221.96 📉|
+
+## Ulaşım
+
+> :warning: **İYTE Otobüs Hatlarının bir kısmı yaz günlerinde hizmet vermemektedir.**
+
+> :information_source: [Ulaşımla ilgili resmi İYTE sayfası](https://iyte.edu.tr/yenikayit/iyteye-ulasim/)
+
+İYTE'de ulaşım genellikle dolmuşlarla sağlanmaktaydı, dolmuşlar dışında iki otobüs vardı, bunlar [982 Numaralı](https://www.eshot.gov.tr/tr/UlasimSaatleri/982/288?AspxAutoDetectCookieSupport=1) ESHOT hattı ve Urla Belediye Otobüsü'ydü. Ancak son iki sene içinde iki yeni otobüs daha eklendi, bunlar [883 Numaralı F. Altay Ekspress Hattı](https://www.eshot.gov.tr/tr/UlasimSaatleri/883/288) ve [882 Numaralı İYTE-Urla Hattı](https://www.eshot.gov.tr/tr/UlasimSaatleri/883/288)dır.
+
+Bu otobüs hatlarının eklenmesi ile birlikte, dolmuşlar kampüse girmeyi bırakmışlardır (bildiğim kadarıyla). Ayrıca kampüs içersinde hizmet gösteren bir ring servisi de bulunmaktadır. Bunun dışında servisler de bulunmaktadır.
+
+## Barınma
+
+> :information_source: [Barınma ve Kampüs Hayatıyla ilgili resmi İYTE Sayfası](https://iyte.edu.tr/kampus-hayati/)
+
+> :warning: **KYK yurtları kontejana tabiidir**
+
+İYTE'de barınma olarak, kampüs içinde bir devlet, bir de özel yurt bulunmaktadır (ÜniYurt) bunun dışında, İYTE'nin yakınındaki Gülbahçe köyünde ve İYTE'ye görece yakın Urla merkez arasında kiralık evler bulunabilir. Ayrıca Urla'da çeşitli  özel yurtlar bulunmaktadır, bu yurtların bazıları kendi servislerini kaldırmaktadır.
