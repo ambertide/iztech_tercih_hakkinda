@@ -12,7 +12,9 @@ Tercih dönemindeyseniz, İYTE bölümlerinin notları ve notların nereye gitti
 
 > ℹ️ **Bilgiler YÖK Atlas'ın bu sene ve geçen seneki verileridir.** [Ayrıntılı tablo](https://docs.google.com/spreadsheets/d/1kT3D6YSBBLEVwhM9tpDEtn6yGS_sDiLZpVbBHoQSe-E/edit?usp=sharing)
 
-| Program | Son Sene (2019) Sıralaması | Kuruluşundan Beri Sıralamasındaki Değişim |
+> ℹ️ **YÖK Atlas verileri en erken 2015'ten olduğundan, 2015'ten sonra kurulan bölümlerin hesabı kurulma tarihlerinden, öncekiler 2015 itibarindendir.**
+
+| Program | Son Sene (2019) Sıralaması | Kuruluşundan/2015'ten Beri Sıralamasındaki Değişim |
 | :---         |     :---:      |          ---: |
 | [Bilgisayar Mühendisliği](https://ceng.iyte.edu.tr/tr/) | 22,043 | +%39.96 📈 |
 | [Biyomühendislik](https://bioeng.iyte.edu.tr/) | 91,562 | +%4.17 📈 |
@@ -27,7 +29,7 @@ Tercih dönemindeyseniz, İYTE bölümlerinin notları ve notların nereye gitti
 
 ### Fen Fakültesi
 
-| Program | Son Sene (2019) Sıralaması | Kuruluşundan Beri Sıralamasındaki Değişim |
+| Program | Son Sene (2019) Sıralaması | Kuruluşundan/2015'ten Beri Sıralamasındaki Değişim |
 | :---         |     :---:      |          ---: |
 | [Fizik](https://physics.iyte.edu.tr/) | 188,493 | +%9.18 📈|
 | [Fotonik](https://physics.iyte.edu.tr/) | 261,732 | Yeni 📆|
@@ -39,7 +41,7 @@ Tercih dönemindeyseniz, İYTE bölümlerinin notları ve notların nereye gitti
 
 ### Mimarlık Fakültesi
 
-| Program | Son Sene (2019) Sıralaması | Kuruluşundan Beri Sıralamasındaki Değişim |
+| Program | Son Sene (2019) Sıralaması | Kuruluşundan/2015'ten Beri Sıralamasındaki Değişim |
 | :---         |     :---:      |          ---: |
 | [Endüstriyel Tasarım](https://id.iyte.edu.tr/) | 141,415 |  Yeni 📆|
 | [Mimarlık](https://arch.iyte.edu.tr/) | 55,957 | -%131.81 📉|
